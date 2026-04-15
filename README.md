@@ -1,4 +1,4 @@
-# Video Game Sales — Data Cleaning Project
+# Video Game Sales — Data Analysis Project
 
 ## Results
 
